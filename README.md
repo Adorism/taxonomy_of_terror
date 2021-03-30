@@ -11,14 +11,15 @@ An NLP-centered project for capstone 2 of the Galvanize Data Science Intensive.
 6: Predict the topic of a new short story
 
 ## Supervised Approach: 
-Kaggle competition using these texts as predictors of the author. The target would be the author and the goal is to train a model that can identify the author of an unseen piece of text, out of three authors whose work is included in the corpus. 
-
+Kaggle competition using these texts as predictors of the author. <br> The target would be the author and the goal is to train a model that can identify the author of an unseen piece of text, out of three authors whose work is included in the corpus. 
+<br><br>
+Some possible inclusions<br>
 (Wordcount Distribution Plot)
-
+<br><br>
 (Wordcount Distribution Box Plot?)
-
-Top 20 words in corpus (histogram)
-top 20 in EAP along with a VADER sent analysis
-top 20 in HPL along with a VADER sent analysis
-top 20 in MWS along with a VADER sent analysis
+<br><br>
+Top 20 words in corpus (histogram) <br><br>
+top 20 in EAP along with a VADER sent analysis <br><br>
+top 20 in HPL along with a VADER sent analysis <br><br>
+top 20 in MWS along with a VADER sent analysis <br><br>
 
