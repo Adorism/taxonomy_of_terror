@@ -12,7 +12,8 @@ An NLP-centered project for capstone 2 of the Galvanize Data Science Intensive.
 
 ## Supervised Approach: 
 Kaggle competition using these texts as predictors of the author. <br> The target would be the author and the goal is to train a model that can identify the author of an unseen piece of text, out of three authors whose work is included in the corpus. 
-<br>
+<br><br>
+Some possible inclusions<br>
 (Wordcount Distribution Plot)
 <br><br>
 (Wordcount Distribution Box Plot?)
