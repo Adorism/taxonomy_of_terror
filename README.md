@@ -48,7 +48,7 @@ Poe/Lovecraft | 88% | Abandonment, abdication, man, old, house, say, night, know
 Poe/Shelley | 83% | Love, life, man, eye, heart, time, father, hope, little, friend, death, think
 
 <br>
-I chose to keep what I saw as "victorian stop-words" because they seemed to be highly predictive for each author. Therefore, I am curious as to wheter that decision may have led to an overfit model or if it's a good application in a purpose-built model for classifying authors by their syntactic signatures. 
+I chose to keep what I saw as "victorian stop-words" because they seemed to be highly predictive for each author. Therefore, I am curious as to whether that decision may have led to an overfit model or if it's a good application in a purpose-built model for classifying authors by their syntactic signatures. 
 <br><br>
 
 ![Word2Vec Similarities](/images/wordvecs.png)
