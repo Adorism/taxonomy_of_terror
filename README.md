@@ -16,14 +16,17 @@ The three authors represented are: Edgar Allan Poe, H.P. Lovecraft, and Mary Wol
 ![Lovecraft Words](/images/lovecraft_words.png)
 ![Shelley Words](/images/shelley_words.png)
 <br><br>
+
 Author | Vocabulary Size
 ------------ | -------------
 Edgar Allan Poe | 15,261
 H.P. Lovecraft | 14, 504
 Mary Shelley | 11,515
+
 <br><br>
 
 I also applied NLTK's Sentiment Intensity Analyzer on each line for each author's work. The following table shows those sentiments averaged by author: <br><br>
+
 Author | Negative | Neutral | Positive | Compound
 ------------ | ------------- | ------------- | ------------- | ------------- 
 Edgar Allan Poe | .07 | .84 | .09 | .04
