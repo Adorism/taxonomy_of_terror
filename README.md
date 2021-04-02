@@ -30,7 +30,9 @@ Edgar Allan Poe | .07 | .84 | .09 | .04
 H.P. Lovecraft | .09 | .84 | .07 | -.06
 Mary Shelley | .10 | .77 | .13 | .06
 <br>
+
 ## Model
+
 The model I used to classify the texts was Multinomial Naive Bayes. When tested, the following accuracy scores and predictive features were noted. 
 
 Author Classifiers | Accuracy | Predictive Feature Samples
