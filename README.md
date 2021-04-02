@@ -56,6 +56,9 @@ I chose to keep what I saw as "victorian stop-words" because they seemed to be h
 ![Word2Vec Similarities](/images/wordvecs.png)
 
 <br><br>
+
+![Model-Outcome-Report](/images/report.png)
+
 Notes: Each of these writers makes some unusual stylistic and vocabulary choices. I wondered if those are easily spotted in machine learning. In the story "X-ing a Paragrab" there is a letter wherein all of the "o"s in the text are replaced with x. So, there is a line for example that reads: "Gxxd Lxrd, Jxhn, hxw yxu dx lxxk!" and goes on to write "X-cellent" in place of excellent and "X-entric" in place of eccentric.  
 <br>
 
