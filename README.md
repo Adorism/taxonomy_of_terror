@@ -1,5 +1,5 @@
 # The Taxonomy of Terror
-This is an NLP-centered project for capstone 2 of the Galvanize Data Science Intensive.<br><br>
+This is an NLP-centered project for capstone 2 of the Galvanize Data Science Intensive. Presented April 2, 2021.<br><br>
 
 ![Page Divider](/images/div2-removebg-preview.png)
 
