@@ -1,7 +1,7 @@
 # The Taxonomy of Terror
-This is an NLP-centered project for capstone 2 of the Galvanize Data Science Intensive.<br><br>
+This is an NLP-centered project for capstone 2 of the Galvanize Data Science Intensive. Presented April 2, 2021.<br><br>
 
-![Page Divider](/images/pagedivider2018.png)
+![Page Divider](/images/div2-removebg-preview.png)
 
 As a life-long reader and as a librarian, I value books. Book-sellers and libraries want to help readers choose books they will enjoy and they want that process to be easy. We want the selection process to be enjoyable and the reading to be rewarding. Therefore, it makes sense to develop computational models for matching readers with books. I want to eventually build a model that uses a "taxonomy of terror" to quantify just how scary a book is in order to help readers who want a book that is "a little scary", "chilling and creepy", or "absolutely terrifying". This is sometimes accomplished through subgenre, but a scale of scariness (or romance, or humor, or any other metric of sentiment) would be very useful in helping to advise readers in a digital space. 
 
