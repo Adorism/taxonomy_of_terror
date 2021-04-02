@@ -1,7 +1,9 @@
 # The Taxonomy of Terror
 An NLP-centered project for capstone 2 of the Galvanize Data Science Intensive.<br><br>
-## Rationale:
 
+As a life-long reader and as a librarian, I value books. Book-sellers and libraries want to help readers choose books they will enjoy and they want that process to be easy. We want the selection process to be enjoyable and the reading to be rewarding. Therefore, it makes sense to develop computational models for matching readers with books. I want to eventually build a model that uses a "taxonomy of terror" to quantify just how scary a book is in order to help readers who want a book that is "a little scary", "chilling and creepy", or "absolutely terrifying". This is sometimes accomplished through subgenre, but a scale of scariness (or romance, or humor, or any other metric of sentiment) would be very useful in helping to advise readers in a digital space. 
+
+Being able to discern one author from another inside of a given genre is a step in the right direction because authors often adhere to a given sub-genre. 
 
 I used a supervised approach to text classification among three authors.<br><br>
 The dataset I used came from a 2017 Kaggle competition using individual lines of text as predictors of the author. <br> The target would be the author and the goal is to train a model that can identify the author of an unseen piece of text, out of three authors whose work is included in the corpus. 
