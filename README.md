@@ -29,6 +29,7 @@ Author | Negative | Neutral | Positive | Compound
 Edgar Allan Poe | .07 | .84 | .09 | .04
 H.P. Lovecraft | .09 | .84 | .07 | -.06
 Mary Shelley | .10 | .77 | .13 | .06
+
 <br>
 
 ## Model
